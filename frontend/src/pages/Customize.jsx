@@ -11,7 +11,7 @@ import { RiImageAddLine } from "react-icons/ri";
 import { useRef } from 'react'
 import { useState } from 'react'
 import { useContext } from 'react'
-import { userDataContext } from '../context/userContext'
+import { userDataContext } from '../context/UserContext'
 import { MdKeyboardBackspace } from "react-icons/md";
 import { useNavigate } from 'react-router-dom'
 
