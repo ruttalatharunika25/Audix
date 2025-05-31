@@ -32,5 +32,4 @@
 - 📦 Fully responsive design for all devices
 - 🌐 RESTful API with modular backend architecture
 
----
 
