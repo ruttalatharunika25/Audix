@@ -2,8 +2,6 @@
 
 **AUDIX** is a full-stack voice assistant web application powered by the **MERN** stack, featuring **Gemini AI** for real-time smart interactions. Users can personalize their assistant, speak commands via the **Web Speech API**, and receive dynamic AI responses in a fully responsive interface.
 
----
-
 ## 🧰 Tech Stack
 
 ### 🖥️ Frontend
@@ -21,7 +19,6 @@
 ### ☁️ Deployment
 - Deployed on **Render** with environment configuration
 
----
 
 ## ✨ Features
 
